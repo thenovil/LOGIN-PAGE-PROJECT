@@ -8,7 +8,7 @@ demohttps://loginpage-nov.netlify.app/
 User Authentication: Secure login functionality ensures user privacy and data security.
 Responsive Design: Optimized for various screen sizes, providing a seamless experience across devices.
 Customizable: Easily customize the look and feel of the login page to match your branding or design preferences.
-🖥️ Usage
+🖥️ Usage 
 To use the login page, simply open the index.html file in your web browser. Enter your credentials and click the login button to securely access your account.
 
 🤝 Contributing
